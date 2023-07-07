@@ -1,0 +1,10 @@
+{
+    "author" : ["Maike1990"],
+    "description" : "Controls a PiShock from Discord",
+    "install_msg" : "Thank you for installing this cog, please take care of this tool",
+    "short" : "PiShock Control",
+    "requirements" : ["requests"],
+    "end_user_data_statement": "This cog stores API keys from a shock collar in the future",
+    "tags" : ["pishock"],
+    "min_bot_version": "3.5.0"
+}
